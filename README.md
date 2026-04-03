@@ -42,4 +42,4 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Weintag&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
-<img src="ac.webp" alt="Armored Core"></img>
+<img src="./img/ac.webp" alt="Armored Core"></img>
