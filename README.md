@@ -11,11 +11,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo"  />
+  <img width="12" />
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".DotNet logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
